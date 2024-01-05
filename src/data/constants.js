@@ -8,7 +8,7 @@ export const Bio = {
   description:
     "I am a motivated individual, always eager to take on new challenges. I am more inclined toward development. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to accept challange .",
   github: "https://github.com/Anku24Singh",
-  // resume:
+  resume:"https://drive.google.com/file/d/1RJlaePR42WYwrNrVRsRSI7QRxxDROEVb/view?usp=drive_link",
     linkedin: "https://www.linkedin.com/in/anku-kumari-856948182?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
   
 };
